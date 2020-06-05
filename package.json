@@ -2,7 +2,7 @@
   "name": "vamos",
   "version": "0.1.0",
   "description": "Project Scaffolder & Velocity Accelerator",
-  "repository": "",
+  "repository": "https://github.com/skyfly200/vamos",
   "author": "Skyler Fly-Wilson <skyfly200@gmail.com>",
   "license": "GPL-3.0-or-later"
 }
